@@ -31,7 +31,7 @@ Usage
 
 After that, the following command will be available in your PATH::
 
-    $ deploy-ecs -help
+    $ deploy-ecs --help
 
 We have the following commands:
 
